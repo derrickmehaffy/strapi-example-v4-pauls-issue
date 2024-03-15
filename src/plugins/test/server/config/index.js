@@ -1,6 +1,8 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  default: {},
+  default: {
+    test: "blah",
+  },
   validator() {},
 };
